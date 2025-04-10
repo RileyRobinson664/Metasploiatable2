@@ -1,4 +1,4 @@
-<h1>JMetasploiatable 2</h1>
+<h1>Metasploiatable 2</h1>
 
 <h2>Description</h2>
 This projecet consists of the setup and configuration of the Metasploiatable 2 box.
