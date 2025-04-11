@@ -29,6 +29,9 @@ Now we can launch the box: <br/>
 We now want to add out Kali instance to the LAN so that our boxes can talk to eachother:  <br/>
 <img src="https://imgur.com/ZOyfmQ5.png" height="80%" width="80%" alt="Add a network adapter"/> 
 <img src="https://imgur.com/n4vcazI.png" height="80%" width="80%" alt="Add a network adapter"/>
+<br/> 
+<br/>
+Our VM settings should look like this now:  <br/>
 <img src="https://imgur.com/upcRWdl.png" height="80%" width="80%" alt="Add a network adapter"/>
 <br />
 <br />
