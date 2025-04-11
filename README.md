@@ -13,7 +13,7 @@ This project shows how to set up the Metasploitable 2 box for a simulated engmen
 <h2>Configuration:</h2>
 
 <p align="center">
-After importing the files into your hypervisor of choice, remove the Network Adapter 2 from the Metasploatable 2 box. Having this box on a public facing network could present a security issue.: <br/>
+After importing the files into your hypervisor of choice, remove the Network Adapter 2 from the Metasploatable 2 box. Having this box on a public facing network could present a security issue: <br/>
 <img src="https://imgur.com/mjnUW0K.png" height="80%" width="80%" alt="Removing the network adapter"/>
 <br />
 <br />
