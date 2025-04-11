@@ -1,7 +1,5 @@
 <h1>Metasploitable 2</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 This project shows how to set up the Metasploitable 2 box for a simulated engment as well was providing a walkthrough for the box.
 <br />
